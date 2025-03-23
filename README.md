@@ -7,8 +7,7 @@
 ---
 
 ## 🚀 **About Me**
-🔬 **Graduate Research Assistant** specializing in **Federated Learning on Edge Devices**   
-🎓 Pursuing **MSc in AI** at **Gachon University, South Korea**  
+🔬 **Graduate Researcher** specializing in **Federated Learning on Edge Devices**    
 💡 Passionate about **MLOps, Deep Learning, Edge AI, and Federated Learning**  
 ⚡ Exploring **Industrial IoT (IIoT) applications using FL**  
 📜 Actively **contributing to open-source FL frameworks**  
