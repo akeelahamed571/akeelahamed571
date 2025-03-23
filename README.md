@@ -43,10 +43,10 @@
 ---
 
 ## 🏗️ **Projects & Contributions**
-📌 **[FedOps Mobile](https://github.com/your-repo-link)** - **Federated Learning** on mobile edge devices using **Flutter, Flower, and gRPC**.   
-📌 **[Legal AI Assistant](https://github.com/your-repo-link)** - AI-powered legal assistant app backed by **LLMs and NLP**.  
-📌 **[FL on Industrial IoT](https://github.com/your-repo-link)** - Federated Learning implementation for **smart factories & predictive maintenance**.  
-📌 **[StyleGAN + CBAM](https://github.com/your-repo-link)** - A modified **CBAM-enhanced StyleGAN** to create photorealistic images from cartoons.  
+📌 **[FedOps Multimodal]([https://github.com/akeelahamed571/ptbxl-fedops-clean.git])** - **Federated Learning** on cross silo devices using ** pytorch,Flower, and gRPC**.   
+📌 **[Legal AI Assistant]((https://github.com/akeelahamed571/ayca-legal-info-app.git))** - AI-powered legal assistant app backed by **LLMs and NLP**.  
+
+  
 
 ---
 
