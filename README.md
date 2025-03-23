@@ -43,7 +43,7 @@
 ---
 
 ## 🏗️ **Projects & Contributions**
-📌 **[FedOps Multimodal]([https://github.com/akeelahamed571/ptbxl-fedops-clean.git])** - **Federated Learning** on cross silo devices using ** pytorch,Flower, and gRPC**.   
+📌 **[FedOps Multimodal]([https://github.com/akeelahamed571/ptbxl-fedops-clean.git])** - **Federated Learning** on cross silo devices using **pytorch,Flower, and gRPC**.   
 📌 **[Legal AI Assistant]((https://github.com/akeelahamed571/ayca-legal-info-app.git))** - AI-powered legal assistant app backed by **LLMs and NLP**.  
 
   
