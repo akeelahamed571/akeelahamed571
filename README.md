@@ -11,7 +11,7 @@
 💡 Passionate about **MLOps, Deep Learning, Edge AI, and Federated Learning**  
 ⚡ Exploring **Industrial IoT (IIoT) applications using FL**  
 📜 Actively **contributing to open-source FL frameworks**  
-📩 Reach me at: [**akeelahamed569@gmail.com**](mailto:akeelahamed571@gmail.com)  
+  
 
 ---
 
