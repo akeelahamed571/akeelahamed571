@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Akeel Ahamed! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7567C&center=true&vCenter=true&width=600&lines=Federated+Learning+%7C+MLOps+%7C+AI+Researcher;Flutter+%7C+Android+%7C+Edge+AI+%7C+gRPC;Master's+Student+@+Gachon+University;Open+Source+Contributor+%7C+AI+Enthusiast;Welcome+to+my+GitHub+profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7567C&center=true&vCenter=true&width=600&lines=Federated+Learning+%7C+MLOps+%7C+AI+Researcher;Flutter+%7C+Android+%7C+Edge+AI+%7C+gRPC;AI Researcher +@+Gachon+University;Open+Source+Contributor+%7C+AI+Enthusiast;Welcome+to+my+GitHub+profile!">
 </p>
 
 ---
 
 ## 🚀 **About Me**
-🔬 **Graduate Researcher** specializing in **Federated Learning on Edge Devices**    
+🔬 **Graduate Researcher** specializing in **Federated Learning on Edge Devices in Healthcare, and AI industry**    
 💡 Passionate about **MLOps, Deep Learning, Edge AI, and Federated Learning**  
 ⚡ Exploring **Industrial IoT (IIoT) applications using FL**  
 📜 Actively **contributing to open-source FL frameworks**  
